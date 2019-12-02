@@ -1,5 +1,5 @@
 /*
- * Project MeshClient
+ * Project MeshClient - In development branch?
  * Description:
  * Author:
  * Date:
