@@ -1,10 +1,10 @@
-# 02-MeshMQTT
+# MeshClient
 
-A Particle project named 02-MeshMQTT
+A Particle project named MeshClient
 
 ## Welcome to your project!
 
-Every new Particle project is composed of 3 important elements that you'll see have been created in your project directory for 02-MeshMQTT.
+Every new Particle project is composed of 3 important elements that you'll see have been created in your project directory for MeshClient.
 
 #### ```/src``` folder:  
 This is the source folder that contains the firmware files for your project. It should *not* be renamed. 

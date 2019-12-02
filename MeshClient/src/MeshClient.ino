@@ -1,5 +1,5 @@
 /*
- * Project 02-MeshMQTT
+ * Project MeshClient
  * Description:
  * Author:
  * Date:
